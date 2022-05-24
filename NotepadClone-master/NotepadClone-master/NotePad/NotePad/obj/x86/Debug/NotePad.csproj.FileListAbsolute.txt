@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\obj\x86\Debug\NotePad.Form1.resources
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+C:\Users\User\Desktop\NotepadClone-master\NotepadClone-master\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
